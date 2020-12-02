@@ -3,6 +3,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
+# 
 
 # 幂变换(伽马变换)
 def fun(src, c, gamma):
